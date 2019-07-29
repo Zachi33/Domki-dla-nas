@@ -1,6 +1,6 @@
 ## Elo chłopaki
 
-Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru. Jestem zajebisty I tak już chyba zostanie xddd. Spongebob
+Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru. wreszcie umniem. Spongebob
 
 You can use the [editor on GitHub](https://github.com/Zachi33/HouseTogether/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
