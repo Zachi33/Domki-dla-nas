@@ -8,6 +8,74 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="{{site.baseurl}}/spongebob.jpg">
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-o5vb{border-color:#fe0000;text-align:left;vertical-align:top}
+.tg .tg-cxgh{background-color:#ffcb2f;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-cxgh">Wy to jesteście</th>
+    <th class="tg-cxgh">Idiotami</th>
+    <th class="tg-cxgh">pierdolonymi</th>
+    <th class="tg-cxgh">o kurde</th>
+    <th class="tg-cxgh">zlotowki PLN</th>
+    <th class="tg-cxgh">56456</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-o5vb"></td>
+    <td class="tg-0lax">23</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">654546</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">----</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig">3432</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">645</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig">gfdg</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">gówno</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</table>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
