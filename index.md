@@ -1,10 +1,12 @@
 ﻿## Elo chłopaki
 
-Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru.
+Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru. Spongebob
 
 You can use the [editor on GitHub](https://github.com/Zachi33/HouseTogether/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<img src="{{site.baseurl}}/spongebob.jpg">
 
 ### Markdown
 
