@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+﻿## Elo chłopaki
+
+Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru.
 
 You can use the [editor on GitHub](https://github.com/Zachi33/HouseTogether/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
