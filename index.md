@@ -1,109 +1,28 @@
 ﻿## Elo chłopaki
 
-Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru. Spongebob
 
-You can use the [editor on GitHub](https://github.com/Zachi33/HouseTogether/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Musimy wszyscy być zorientowani w domkach. Każdy z was musi przejżeć wszystko co jest dostępne. Dłogo ale to długo em paczał i wygląda na to, że liczą się już tylko 3 agencje:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Andrews Residetial
 
-<img src="{{site.baseurl}}/spongebob.jpg">
+<img src="{{site.baseurl}}/andrew.png">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-o5vb{border-color:#fe0000;text-align:left;vertical-align:top}
-.tg .tg-cxgh{background-color:#ffcb2f;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-cxgh">Wy to jesteście</th>
-    <th class="tg-cxgh">Idiotami</th>
-    <th class="tg-cxgh">pierdolonymi</th>
-    <th class="tg-cxgh">o kurde</th>
-    <th class="tg-cxgh">zlotowki PLN</th>
-    <th class="tg-cxgh">56456</th>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-o5vb"></td>
-    <td class="tg-0lax">23</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">654546</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">----</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig">3432</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">645</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-1wig"></td>
-    <td class="tg-1wig">gfdg</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">gówno</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</table>
+Kliknijcie [tu](https://www.andrewsresidential.co.uk/lettings.php?area=Uxbridge&max_price=2000&bedrooms=3) żeby zobaczyć co dla nas mają. Agencja jest liderem, mają najlepsze domki [(przykład)](https://www.andrewsresidential.co.uk/property-for-rent-3-bedroom-terrace-in-uxbridge) bardzo blisko Brunela. Ciężko się za to z nimi skontaktować... Może wy spróbujecie? plis...
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Coopers
 
-```markdown
-Syntax highlighted code block
+<img src="{{site.baseurl}}/coopers-residential-logo.png">
 
-# Header 1
-## Header 2
-### Header 3
+Coś czuję że tu właśnie z nimi znajdziemy dom. Coopers jest przyjazny studentom. Mają fajne [domki](https://www.coopersresidential.co.uk/lettings/property-search/?location=UB8+3PH&radius=1&minPrice=0&maxPrice=2000&itemsPerPage=10&sortOrder=1&page=2), a jeden z nich to po prostu umeblowana tania perełka z rachukami: [klik](https://www.coopersresidential.co.uk/lettings/property-details/?propertyId=28870151). Domek jest super okazją, macie pare fotek tutaj:
 
-- Bulleted
-- List
+<img src="{{site.baseurl}}/ladny1.jpg">
 
-1. Numbered
-2. List
+<img src="{{site.baseurl}}/ladny2.jpg">
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Lords Associates
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="{{site.baseurl}}/3e4965d7-87fa-4c2d-9969-f1745c5e22ca.png">
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zachi33/HouseTogether/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dopiero ich poznałem. Mają głównie 4-osobowe [domki](http://www.lordsassociates.co.uk/let/property-to-let?streetarea=Uxbridge&minbedrooms=3&maxbedrooms=4) więc przydadzą się jeśli Marcin dołączy do gry (co się okaże plus minus 8 sierpnia).
