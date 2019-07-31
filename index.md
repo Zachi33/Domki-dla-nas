@@ -1,6 +1,9 @@
 ﻿## Elo chłopaki
-
 Musimy wszyscy być zorientowani w domkach. Każdy z was musi przejrzeć wszystko co jest dostępne. Dłogo ale to długo patrzyłem i wygląda na to, że liczą się już tylko 3 agencje:
+
+
+
+
 
 ### Andrews Residetial [-->Lista domków dla nas](https://www.andrewsresidential.co.uk/lettings.php?area=Uxbridge&max_price=2000&bedrooms=3)
 
