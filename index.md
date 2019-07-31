@@ -1,5 +1,10 @@
-﻿## Elo chłopaki
+## Elo chłopaki
 
+<<<<<<< HEAD
+=======
+Tak sobie zrobiłem stronkę żebyście zobaczyli jakie mamy domki do wyboru. no co jest? ;'( :smile: 
+### Spongebob
+>>>>>>> 1fe9efc01eba657d84a8875c1622ba45b7d47903
 
 Musimy wszyscy być zorientowani w domkach. Każdy z was musi przejżeć wszystko co jest dostępne. Dłogo ale to długo em paczał i wygląda na to, że liczą się już tylko 3 agencje:
 
